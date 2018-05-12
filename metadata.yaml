@@ -1,0 +1,65 @@
+_repo: The-Iliad-of-Homer--13-Translated-into-English-Blank-Verse-by-William-Cowper_16452
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Dwight, M. A. (Mary Ann)
+    birthdate: 1806
+    deathdate: 1858
+    gutenberg_agent_id: '6723'
+    url: http://www.gutenberg.org/2009/agents/6723
+  translator:
+    agent_name: Cowper, William
+    birthdate: 1731
+    deathdate: 1800
+    gutenberg_agent_id: '1270'
+    url: http://www.gutenberg.org/2009/agents/1270
+    wikipedia: http://en.wikipedia.org/wiki/William_Cowper
+covers:
+- cover_type: archival
+  image_path: 16452-h/images/coverill.png
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+  editor:
+    agent_name: Southey, Robert
+    birthdate: 1774
+    deathdate: 1843
+    gutenberg_agent_id: '488'
+    url: http://www.gutenberg.org/2009/agents/488
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Southey
+description: One of the foremost achievements in Western literature, Homer's Iliad
+  tells the story of the darkest episode in the Trojan War. At its centre is Achilles,
+  the greatest warrior-champion of the Greeks, and his refusal to fight after being
+  humiliated by his leader Agamemnon. But when the Trojan Hector kills Achilles' close
+  friend Patroclus, he storms back into battle to take revenge - although knowing
+  this will ensure his won early death. Interwoven with this tragic sequence of events
+  are powerfully moving descriptions of the ebb and flow of battle, of the domestic
+  world inside Troy's besieged city of llium and of the conflicts between the gods
+  on Olympus as they argue over the fate of mortals.-Back cover.
+gutenberg_bookshelf:
+- Poetry
+- Classical Antiquity
+gutenberg_issued: '2005-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16452'
+language: en
+production_note: Produced by Ted Garvin, Melissa Er-Raqabi, Fred Robinson and the
+  Online Distributed Proofreading Team at http://www.pgdp.net
+publication_note: New York, D. Appleton & Co., 346 & 348 Broadway, 1860
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Achilles (Mythological character) -- Poetry'
+- !lcc 'PA'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+- !lcsh 'Trojan War -- Poetry'
+title: "The Iliad of Homer\r\nTranslated into English Blank Verse by William Cowper"
+url: http://www.gutenberg.org/ebooks/16452
